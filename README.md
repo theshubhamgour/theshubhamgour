@@ -1,4 +1,4 @@
-## Hi, I'm Shubham Gour, A Cloudops enthusiast!
+## Hi, I'm Shubham Gour, A Tech enthusiast!
 
 <div align="center">
   <a href="https://github.com/theshubhamgour">
