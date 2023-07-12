@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Shubham Gour and I'm a Release Coordinator with 1.2 years of experience in Release Management and Software developemnt. Welcome to my GitHub page!
+My name is Shubham Gour and I'm a Release Coordinator with 1.5 years of experience in Release Management and Software developemnt. Welcome to my GitHub page!
 
 ## About Me
 🔭 I’m currently working on Integrating Jira/Bitbucket and Github with the help of python to find out solutions in less time.
