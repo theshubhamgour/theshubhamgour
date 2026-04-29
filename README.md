@@ -1,34 +1,48 @@
-## Hi there 👋
-
-My name is Shubham Gour and I'm a DevOps Enthusiast with 2 years of experience in Release Management and Software developemnt. Welcome to my GitHub page!
-
-## About Me
-🔭 I’m currently working on Integrating Jira/Bitbucket and Github with the help of python to find out solutions in less time.
-
-🌱 I’m currently learning Cloud and Operation tools.
-
-📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/theshubhamgour) 
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I love to travel so much that I often forget the paths I have taken. Despite this, I always manage to find my way back and have some amazing stories to tell from my adventures.
-
-
 <div align="center">
-  <a href="https://github.com/theshubhamgour">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theshubhamgour&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamgour&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="shubham-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="shubham-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="shubham-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="shubham-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="shubham-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="shubham-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+  <h1>Hi there, I'm Shubham Gour! 👋</h1>
+  <h3>DevOps & Cloud Expert | AWS Community Member (Containers) | Content Creator</h3>
   
-  ##
+  <p align="center">
+    <a href="https://www.linkedin.com/in/theshubhamgour/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.youtube.com/shubhamgourtech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/AWS_Community_Member-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- ☁️ I am an active **AWS Community Member** specializing in the **Container** category.
+- 🎥 I am a passionate content creator. I've created a comprehensive **12+ hours Docker Full Course**, and I also teach **Jenkins CI/CD**.
+- 🚀 I have recently started my series on **DevOps & Tech Journeys**, documenting and teaching real-world architectures and implementations.
+- 💡 I love exploring new tools in the Cloud Native ecosystem and sharing my learnings with the community.
+- 📫 How to reach me: Connect with me on LinkedIn or drop a comment on my YouTube channel!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+## 📺 YouTube Content Highlights
+
+I love giving back to the community through my video courses:
+- 🐳 **Docker Full Course**: Over 12 hours of deep-dive content covering basics, Multistage Dockerfiles, Volumes, Compose, and more.
+- ⚙️ **Jenkins CI/CD**: Comprehensive guides on automating your deployments.
+- 🛤️ **Tech Journeys**: My ongoing series exploring the modern cloud and container landscape.
+
+---
  
 <div> 
   <a href="https://www.youtube.com/shubhamgourtech" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
