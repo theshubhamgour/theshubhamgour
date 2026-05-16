@@ -43,6 +43,13 @@ I love giving back to the community through my video courses:
 - 🛤️ **Tech Journeys**: My ongoing series exploring the modern cloud and container landscape.
 
 ---
+
+## 🚀 Featured Projects
+
+- 🤖 **[DeltaSenseAI](https://deltasense-ui.onrender.com/)**: AI workflow intelligence platform designed for DevOps optimization, predictive scaling, and automated incident response.
+- 🛠️ **[AI DevOps Assistant](http://ai-devops-web.onrender.com/)**: An intelligent platform that automatically analyzes CI/CD failures and server logs to recommend fixes using the Gemini API.
+
+---
  
 <div> 
   <a href="https://www.youtube.com/shubhamgourtech" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
