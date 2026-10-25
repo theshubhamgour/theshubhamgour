@@ -1,71 +1,86 @@
 <div align="center">
-  <h1>Hi there, I'm Shubham Gour! 👋</h1>
-  <h3>DevOps & Cloud Expert | AWS Community Member (Containers) | Content Creator</h3>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/theshubhamgour/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.youtube.com/shubhamgourtech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/AWS_Community_Member-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-  </p>
+
+# Shubham Gour
+
+**DevOps & Cloud Engineer · I teach Kubernetes, Docker and CI/CD through hands-on, open course repositories**
+
+[![YouTube](https://img.shields.io/badge/YouTube-shubhamgourtech-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@shubhamgourtech)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://theshubhamgour.hashnode.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-theshubhamgour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theshubhamgour/)
+[![X](https://img.shields.io/badge/X-@theshubhamgour-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/theshubhamgour)
+[![Website](https://img.shields.io/badge/Website-theshubhamgour.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white)](https://theshubhamgour.vercel.app/)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### About me
 
-- ☁️ I am an active **AWS Community Member** specializing in the **Container** category.
-- 🎥 I am a passionate content creator. I've created a comprehensive **12+ hours Docker Full Course**, and I also teach **Jenkins CI/CD**.
-- 🚀 I have recently started my series on **DevOps & Tech Journeys**, documenting and teaching real-world architectures and implementations.
-- 💡 I love exploring new tools in the Cloud Native ecosystem and sharing my learnings with the community.
-- 📫 How to reach me: Connect with me on LinkedIn or drop a comment on my YouTube channel!
+- ☁️ DevOps engineer working across **AWS and GCP**, containers, CI/CD and infrastructure as code
+- 🎓 **RHCSA** (Red Hat Certified System Administrator) and **AWS Community** member in the Containers category
+- 🎥 I publish long-form, hands-on courses on [YouTube](https://www.youtube.com/@shubhamgourtech). Every course has a public repository with the code, manifests and notes, so you can follow along
+- 🎙️ I host **Decode the Desk**, a conversation series with cloud and DevOps engineers about real careers and real systems
+- 🤖 Currently exploring how AI can help with CI/CD troubleshooting and day-to-day operations
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 📚 Open learning resources
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+Free and hands-on, organised module by module. Each one pairs with a video.
+
+| Repository | What you'll learn | Video |
+| :-- | :-- | :-- |
+| ☸️ [**kubernetes-tutorial**](https://github.com/theshubhamgour/kubernetes-tutorial) | Kubernetes from install to RBAC, autoscaling, storage, Ingress, Gateway API and NetworkPolicies (34 modules, ongoing) | [Series](https://www.youtube.com/watch?v=dlmbhY4RdrQ) |
+| 🐳 [**docker-tutorial**](https://github.com/theshubhamgour/docker-tutorial) | Docker from zero: networking, volumes, Dockerfiles, multi-stage builds and Compose | [12+ hr course](https://www.youtube.com/watch?v=rhD12yd5VyI) |
+| ⚙️ [**jenkins-tutorial**](https://github.com/theshubhamgour/jenkins-tutorial) | Jenkins pipelines, agents, webhooks, shared libraries and three end-to-end projects | [6+ hr course](https://www.youtube.com/watch?v=qB0fR-ygQR4) |
+| 🔐 [**trivy-tutorial**](https://github.com/theshubhamgour/trivy-tutorial) | Container and filesystem scanning, secret detection, SBOMs and scan automation with Trivy | [2:48 hr course](https://www.youtube.com/watch?v=gaUJfn54UPA) |
+| 🗺️ [**devops-bootcamp**](https://github.com/theshubhamgour/devops-bootcamp) | A structured roadmap from Linux and AWS basics through Git, CI/CD, IaC, Docker and Kubernetes | — |
+
+### 🛠️ Hands-on projects
+
+| Project | Highlights |
+| :-- | :-- |
+| [**databridge-lite**](https://github.com/theshubhamgour/databridge-lite) | 3-tier app (frontend, Node.js API, MySQL) with Dockerfiles, Docker Compose, Kubernetes manifests and an architecture diagram |
+| [**quickbite**](https://github.com/theshubhamgour/quickbite) | 3-tier food-ordering app (Vanilla JS, Express, MongoDB) behind NGINX with Docker Compose |
+| [**maven-jenkins-cicd-demo**](https://github.com/theshubhamgour/maven-jenkins-cicd-demo) | A Java/Maven build, test and package pipeline driven by a Jenkinsfile |
+| [**github-shared-lib-jenkins**](https://github.com/theshubhamgour/github-shared-lib-jenkins) | A reusable Jenkins shared library for Docker build-and-push steps |
+| [**DeltaSenseAI**](https://deltasense-ui.onrender.com/) · [**AI DevOps Assistant**](https://ai-devops-web.onrender.com/) | Experiments in AI-assisted DevOps: analysing CI/CD failures and logs and suggesting fixes |
+
+---
+
+### 🧰 Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,linux,redhat,prometheus,grafana,git,bash,python&perline=7" alt="AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Linux, Red Hat, Prometheus, Grafana, Git, Bash, Python" />
 </p>
 
 ---
 
-## 📺 YouTube Content Highlights
+### 🤝 Collaborate
 
-I love giving back to the community through my video courses:
-- 🐳 **Docker Full Course**: Over 12 hours of deep-dive content covering basics, Multistage Dockerfiles, Volumes, Compose, and more.
-- ⚙️ **Jenkins CI/CD**: Comprehensive guides on automating your deployments.
-- 🛤️ **Tech Journeys**: My ongoing series exploring the modern cloud and container landscape.
-
----
-
-## 🚀 Featured Projects
-
-- 🤖 **[DeltaSenseAI](https://deltasense-ui.onrender.com/)**: AI workflow intelligence platform designed for DevOps optimization, predictive scaling, and automated incident response.
-- 🛠️ **[AI DevOps Assistant](http://ai-devops-web.onrender.com/)**: An intelligent platform that automatically analyzes CI/CD failures and server logs to recommend fixes using the Gemini API.
+- **Learners:** found a typo, a broken command or an outdated step? Open an issue or a pull request on any tutorial repository. Small fixes are welcome.
+- **Topic requests:** suggest what the Kubernetes series or a future course should cover by opening an issue in [kubernetes-tutorial](https://github.com/theshubhamgour/kubernetes-tutorial/issues).
+- **Teams and communities:** for talks, workshops, podcast guests or collaborations, reach me on [LinkedIn](https://www.linkedin.com/in/theshubhamgour/) or by [email](mailto:iamtheshubhamgour@gmail.com).
 
 ---
- 
-<div> 
-  <a href="https://www.youtube.com/shubhamgourtech" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/theshubhamgour" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:iamtheshubhamgour@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/theshubhamgour" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+
+### 💖 Support my work
+
+Everything here is free: the courses, the repositories and the notes. If they helped you learn or ship something, you can help keep them going:
+
+- ⭐ Star the repositories you find useful, so other learners can find them too
+- 📺 Subscribe on [YouTube](https://www.youtube.com/@shubhamgourtech) and share a video with someone who's learning
+- 🎟️ Become a [YouTube channel member](https://www.youtube.com/channel/UCUCFRmx2K3dTdJiUjvS1scA/join)
+
+<!--
+SPONSORS: uncomment this block only after GitHub approves your Sponsors profile
+and https://github.com/sponsors/theshubhamgour opens a Sponsors page (not your profile).
+
+- 💖 Sponsor me on GitHub. Sponsorship gives me more time to record, test and maintain free DevOps learning resources.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/theshubhamgour)
+-->
+
+<div align="center">
+<sub>Thanks for stopping by. Happy shipping! 🚀</sub>
 </div>
-  
- ## Contact Me
-Feel free to contact me through LinkedIn if you have any questions or inquiries.
-
-## License
-This page is licensed under the terms of the MIT license. See the LICENSE file for details.
-
-Thanks for stopping by!
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
